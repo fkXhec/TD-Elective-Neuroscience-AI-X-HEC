@@ -1,0 +1,23 @@
+# Identifiants, données et fichiers de travail locaux
+.env
+.env.*
+data/
+outputs/
+local/
+private/
+prive/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.edf
+*.bdf
+*.xdf
+*.fif
+*.fif.gz
+*.h5
+*.hdf5
+*.pem
+*.key
+.DS_Store
+Thumbs.db
